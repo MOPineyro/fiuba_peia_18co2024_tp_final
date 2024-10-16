@@ -130,8 +130,6 @@ Resumen de la Comparación entre Tiendas con Mayor y Menor Promedio de Ventas:
 
 Resumen del Análisis Bayesiano del Porcentaje de Morosidad:
 
-![Análisis Bayesiano del Porcentaje de Morosidad](images/morosidad.png)
-
 1. Distribución Posterior:
 
    - Media: 0,0833 (8,33%)
@@ -163,6 +161,8 @@ Resumen del Análisis Bayesiano del Porcentaje de Morosidad:
    - La distribución prior B(1, 5) influyó en mantener una estimación de morosidad mayor que cero, a pesar de no observar clientes morosos en la muestra actual.
 
 En resumen, el análisis bayesiano sugiere que Don Francisco puede esperar una tasa de morosidad relativamente baja en sus ventas a crédito, con una mejor estimación del 8,33%, aunque existe cierta incertidumbre en esta estimación debido al tamaño limitado de la muestra.
+
+![Análisis Bayesiano del Porcentaje de Morosidad](images/morosidad.png)
 
 ## Conclusión
 
