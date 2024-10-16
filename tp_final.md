@@ -27,8 +27,8 @@ Resumen de Intervalos de Confianza para Ventas de Santa Ana (2023):
 
 2. Ventas Promedio:
 
-   - Mes con ventas más altas: Septiembre (22,908.47)
-   - Mes con ventas más bajas: Enero (17,080.03)
+   - Mes con ventas más altas: Septiembre (22.908,47)
+   - Mes con ventas más bajas: Enero (17.080,03)
 
 3. Intervalos de Confianza:
 
@@ -59,8 +59,8 @@ Resumen de la Prueba ANOVA para Comparación de Ventas entre Tiendas:
 
 1. Resultados Estadísticos:
 
-   - Estadístico F: 115.42737881295834
-   - Valor p: 8.232720009425583e-88
+   - Estadístico F: 115,42737881295834
+   - Valor p: 8,232720009425583e-88
 
 2. Interpretación:
 
@@ -95,19 +95,19 @@ Resumen de la Comparación entre Tiendas con Mayor y Menor Promedio de Ventas:
 
 1. Identificación de Tiendas:
 
-   - Mayor promedio de ventas: Palermo ($21,966.66)
-   - Menor promedio de ventas: Los Cedros ($17,826.84)
+   - Mayor promedio de ventas: Palermo ($21.966,66)
+   - Menor promedio de ventas: Los Cedros ($17.826,84)
 
 2. Resultados de la Prueba de Hipótesis:
 
-   - Estadístico t: 18.73440363846437
-   - Valor p: 3.25554210176414e-64
+   - Estadístico t: 18,73440363846437
+   - Valor p: 3,25554210176414e-64
 
 3. Conclusión Estadística:
    Rechazamos la hipótesis nula. Hay evidencia estadística significativa para afirmar que la diferencia en ventas entre las dos tiendas es distinta de cero.
 
 4. Diferencia en Ventas:
-   La diferencia en ventas promedio entre Palermo y Los Cedros es de $4,139.81.
+   La diferencia en ventas promedio entre Palermo y Los Cedros es de $4.139,81.
 
 5. Interpretación:
 
@@ -116,7 +116,7 @@ Resumen de la Comparación entre Tiendas con Mayor y Menor Promedio de Ventas:
    - El alto valor del estadístico t (18.73) refuerza la conclusión de que existe una diferencia sustancial entre las ventas de las dos tiendas.
 
 6. Implicaciones Prácticas:
-   - La diferencia significativa en las ventas diarias promedio ($4,139.81) entre las tiendas de mejor y peor rendimiento representa una brecha considerable en el desempeño.
+   - La diferencia significativa en las ventas diarias promedio ($4.139,81) entre las tiendas de mejor y peor rendimiento representa una brecha considerable en el desempeño.
    - Esta diferencia podría traducirse en disparidades sustanciales de ingresos a lo largo del tiempo, destacando la importancia de comprender y abordar los factores que contribuyen a esta brecha de rendimiento.
    - Puede haber lecciones valiosas que aprender de las operaciones de la tienda Palermo que podrían aplicarse para mejorar las ventas en Los Cedros y potencialmente en otras tiendas de la cadena.
 
@@ -132,8 +132,8 @@ Resumen del Análisis Bayesiano del Porcentaje de Morosidad:
 
 1. Distribución Posterior:
 
-   - Media: 0.0833 (8.33%)
-   - Varianza: 0.005876
+   - Media: 0,0833 (8,33%)
+   - Varianza: 0,005876
 
 2. Interpretación de la Distribución:
 
@@ -142,8 +142,8 @@ Resumen del Análisis Bayesiano del Porcentaje de Morosidad:
 
 3. Estimación del Porcentaje de Morosidad:
 
-   - La mejor estimación puntual del porcentaje de morosidad es 8.33%.
-   - Esta estimación es considerablemente menor que la media de la distribución prior B(1, 5), que sería 1/6 $\approx$ 16.67%.
+   - La mejor estimación puntual del porcentaje de morosidad es 8,33%.
+   - Esta estimación es considerablemente menor que la media de la distribución prior B(1, 5), que sería 1/6 $\approx$ 16,67%.
 
 4. Incertidumbre:
 
@@ -152,7 +152,7 @@ Resumen del Análisis Bayesiano del Porcentaje de Morosidad:
 
 5. Implicaciones para Don Francisco:
 
-   - Basado en la información previa y los datos observados, se espera que la tasa de morosidad sea baja, alrededor del 8.33%.
+   - Basado en la información previa y los datos observados, se espera que la tasa de morosidad sea baja, alrededor del 8,33%.
    - Hay una alta probabilidad de que la verdadera tasa de morosidad sea menor al 20%, como se puede observar en el gráfico.
    - La ausencia de clientes morosos en la muestra actual ha reforzado la expectativa de una baja tasa de morosidad.
 
@@ -160,7 +160,7 @@ Resumen del Análisis Bayesiano del Porcentaje de Morosidad:
    - Esta estimación se basa en una muestra pequeña (6 clientes) y podría actualizarse con más datos.
    - La distribución prior B(1, 5) influyó en mantener una estimación de morosidad mayor que cero, a pesar de no observar clientes morosos en la muestra actual.
 
-En resumen, el análisis bayesiano sugiere que Don Francisco puede esperar una tasa de morosidad relativamente baja en sus ventas a crédito, con una mejor estimación del 8.33%, aunque existe cierta incertidumbre en esta estimación debido al tamaño limitado de la muestra.
+En resumen, el análisis bayesiano sugiere que Don Francisco puede esperar una tasa de morosidad relativamente baja en sus ventas a crédito, con una mejor estimación del 8,33%, aunque existe cierta incertidumbre en esta estimación debido al tamaño limitado de la muestra.
 
 [Análisis Bayesiano del Porcentaje de Morosidad](images/morosidad.png)
 
