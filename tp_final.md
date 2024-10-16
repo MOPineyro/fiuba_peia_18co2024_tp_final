@@ -164,24 +164,6 @@ Resumen del Análisis Bayesiano del Porcentaje de Morosidad:
 
 En resumen, el análisis bayesiano sugiere que Don Francisco puede esperar una tasa de morosidad relativamente baja en sus ventas a crédito, con una mejor estimación del 8,33%, aunque existe cierta incertidumbre en esta estimación debido al tamaño limitado de la muestra.
 
-## Recomendaciones para Don Francisco
-
-1. Planificar considerando la estacionalidad observada en las ventas de Santa Ana, prestando especial atención a los meses de invierno y verano.
-2. Investigar a fondo los factores de éxito en la tienda Palermo para identificar prácticas que puedan replicarse en otras tiendas.
-3. Desarrollar estrategias específicas para mejorar el rendimiento de Los Cedros, enfocándose en cerrar la brecha de ventas con las tiendas de mejor desempeño.
-4. Mantener la política de crédito actual, dado el bajo riesgo de morosidad estimado, pero continuar monitoreando de cerca.
-5. Continuar recopilando datos para refinar las estimaciones, especialmente para el análisis de morosidad, para obtener una imagen más precisa a lo largo del tiempo.
-6. Considerar realizar análisis post-hoc del ANOVA para identificar patrones específicos de diferencias entre todas las tiendas.
-7. Implementar un sistema de benchmarking interno para comparar regularmente el rendimiento entre tiendas y fomentar la mejora continua.
-
-## Limitaciones del Estudio
-
-- La estacionalidad observada en los intervalos de confianza podría requerir un análisis más detallado para comprender completamente sus implicaciones en la planificación a largo plazo.
-- El análisis ANOVA indica diferencias significativas, pero se necesitan pruebas post-hoc para identificar exactamente qué tiendas difieren entre sí y en qué medida.
-- La muestra pequeña para el análisis de morosidad (6 clientes) aumenta la incertidumbre de la estimación. Se recomienda recopilar más datos para obtener una estimación más robusta.
-- Factores externos como la ubicación, el tamaño de la tienda, la demografía local, etc., no se consideraron en las comparaciones entre tiendas, lo que podría influir en las diferencias de rendimiento observadas.
-- El estudio se basa en datos de un período específico y podría no capturar tendencias a largo plazo o cambios recientes en el mercado.
-
 ## Conclusión
 
 Basándonos en el análisis realizado, podemos concluir lo siguiente para Don Francisco:
@@ -205,6 +187,14 @@ Basándonos en el análisis realizado, podemos concluir lo siguiente para Don Fr
    - Basado en el análisis bayesiano, se estima que la tasa de morosidad es relativamente baja, alrededor del 8,33%.
    - Hay una alta probabilidad de que la verdadera tasa de morosidad sea menor al 20%.
    - Estos resultados sugieren que el comportamiento de pago de los clientes a crédito es generalmente bueno, aunque se recomienda seguir monitoreando de cerca.
+
+Limitaciones del Estudio:
+
+- La estacionalidad observada en los intervalos de confianza podría requerir un análisis más detallado para comprender completamente sus implicaciones en la planificación a largo plazo.
+- El análisis ANOVA indica diferencias significativas, pero se necesitan pruebas post-hoc para identificar exactamente qué tiendas difieren entre sí y en qué medida.
+- La muestra pequeña para el análisis de morosidad (6 clientes) aumenta la incertidumbre de la estimación. Se recomienda recopilar más datos para obtener una estimación más robusta.
+- Factores externos como la ubicación, el tamaño de la tienda, la demografía local, etc., no se consideraron en las comparaciones entre tiendas, lo que podría influir en las diferencias de rendimiento observadas.
+- El estudio se basa en datos de un período específico y podría no capturar tendencias a largo plazo o cambios recientes en el mercado.
 
 Recomendaciones para Don Francisco:
 
