@@ -83,7 +83,7 @@ Resumen de la Prueba ANOVA para Comparación de Ventas entre Tiendas:
 5. Conclusión:
    Los resultados indican claramente que no todas las tiendas están teniendo un desempeño igual en términos de ventas. Estas diferencias son estadísticamente significativas y merecen una atención y análisis más detallados para optimizar el rendimiento general de la cadena de supermercados.
 
-[ANOVA](images/anova.png)
+![ANOVA](images/anova.png)
 
 ## 3. Comparación entre Tiendas con Mayor y Menor Promedio de Ventas
 
@@ -120,7 +120,7 @@ Resumen de la Comparación entre Tiendas con Mayor y Menor Promedio de Ventas:
    - Esta diferencia podría traducirse en disparidades sustanciales de ingresos a lo largo del tiempo, destacando la importancia de comprender y abordar los factores que contribuyen a esta brecha de rendimiento.
    - Puede haber lecciones valiosas que aprender de las operaciones de la tienda Palermo que podrían aplicarse para mejorar las ventas en Los Cedros y potencialmente en otras tiendas de la cadena.
 
-[Comparación entre Tiendas con Mayor y Menor Promedio de Ventas](images/ventas.png)
+![Comparación entre Tiendas con Mayor y Menor Promedio de Ventas](images/ventas.png)
 
 ## 4. Análisis Bayesiano del Porcentaje de Morosidad
 
@@ -162,7 +162,7 @@ Resumen del Análisis Bayesiano del Porcentaje de Morosidad:
 
 En resumen, el análisis bayesiano sugiere que Don Francisco puede esperar una tasa de morosidad relativamente baja en sus ventas a crédito, con una mejor estimación del 8,33%, aunque existe cierta incertidumbre en esta estimación debido al tamaño limitado de la muestra.
 
-[Análisis Bayesiano del Porcentaje de Morosidad](images/morosidad.png)
+![Análisis Bayesiano del Porcentaje de Morosidad](images/morosidad.png)
 
 ## Recomendaciones para Don Francisco
 
