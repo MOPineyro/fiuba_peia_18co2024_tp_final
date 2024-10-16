@@ -17,9 +17,9 @@
 
 ### Resultados y Análisis
 
-Resumen de Intervalos de Confianza para Ventas de Santa Ana (2023):
-
 ![Intervalos de Confianza para 'Santa Ana'](images/ci.png)
+
+Resumen de Intervalos de Confianza para Ventas de Santa Ana (2023):
 
 1. Tendencia General:
 
@@ -55,9 +55,9 @@ Esta información proporciona una visión clara de los patrones de venta en Sant
 
 ### Resultados y Análisis
 
-Resumen de la Prueba ANOVA para Comparación de Ventas entre Tiendas:
-
 ![ANOVA](images/anova.png)
+
+Resumen de la Prueba ANOVA para Comparación de Ventas entre Tiendas:
 
 1. Resultados Estadísticos:
 
@@ -91,9 +91,9 @@ Resumen de la Prueba ANOVA para Comparación de Ventas entre Tiendas:
 
 ### Resultados y Análisis
 
-Resumen de la Comparación entre Tiendas con Mayor y Menor Promedio de Ventas:
-
 ![Comparación entre Tiendas con Mayor y Menor Promedio de Ventas](images/ventas.png)
+
+Resumen de la Comparación entre Tiendas con Mayor y Menor Promedio de Ventas:
 
 1. Identificación de Tiendas:
 
