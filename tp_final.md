@@ -181,3 +181,37 @@ En resumen, el análisis bayesiano sugiere que Don Francisco puede esperar una t
 - La muestra pequeña para el análisis de morosidad (6 clientes) aumenta la incertidumbre de la estimación. Se recomienda recopilar más datos para obtener una estimación más robusta.
 - Factores externos como la ubicación, el tamaño de la tienda, la demografía local, etc., no se consideraron en las comparaciones entre tiendas, lo que podría influir en las diferencias de rendimiento observadas.
 - El estudio se basa en datos de un período específico y podría no capturar tendencias a largo plazo o cambios recientes en el mercado.
+
+## Conclusión
+
+Basándonos en el análisis realizado, podemos concluir lo siguiente para Don Francisco:
+
+1. Ventas de Santa Ana:
+
+   - Las ventas de Santa Ana muestran una clara estacionalidad a lo largo del año.
+   - Los meses de invierno (enero y febrero) presentan las ventas más bajas, mientras que los meses de verano y otoño tienden a tener ventas más altas.
+   - El mes con ventas más altas es septiembre (22.908,47) y el más bajo es enero (17.080,03).
+   - Esta información permite una mejor planificación y toma de decisiones basadas en la estacionalidad de las ventas.
+
+2. Comparación entre supermercados:
+
+   - El análisis ANOVA reveló que existen diferencias significativas en las ventas entre las distintas tiendas.
+   - La tienda Palermo muestra el mejor desempeño con un promedio de ventas de $21.966,66.
+   - La tienda Los Cedros tiene el menor promedio de ventas con $17.826,84.
+   - La diferencia en ventas promedio entre estas dos tiendas es de $4.139,81, lo cual es estadísticamente significativo.
+   - Estos resultados indican que algunas tiendas, especialmente Los Cedros, pueden necesitar más atención para mejorar su rendimiento.
+
+3. Análisis de morosidad:
+   - Basado en el análisis bayesiano, se estima que la tasa de morosidad es relativamente baja, alrededor del 8,33%.
+   - Hay una alta probabilidad de que la verdadera tasa de morosidad sea menor al 20%.
+   - Estos resultados sugieren que el comportamiento de pago de los clientes a crédito es generalmente bueno, aunque se recomienda seguir monitoreando de cerca.
+
+Recomendaciones para Don Francisco:
+
+1. Implementar estrategias de ventas estacionales en Santa Ana, aprovechando los meses de mayor actividad y preparándose para los de menor venta.
+2. Investigar las prácticas exitosas de la tienda Palermo y considerar aplicarlas en otras tiendas, especialmente en Los Cedros.
+3. Desarrollar un plan de mejora específico para Los Cedros para cerrar la brecha de rendimiento con las demás tiendas.
+4. Mantener la política actual de ventas a crédito, dado el bajo riesgo de morosidad, pero continuar monitoreando de cerca.
+5. Implementar un sistema de benchmarking interno para comparar regularmente el rendimiento entre tiendas y fomentar la mejora continua.
+
+En general, estos análisis proporcionan a Don Francisco una visión clara de las dinámicas de venta en sus supermercados y le ofrecen una base sólida para la toma de decisiones estratégicas y operativas.
