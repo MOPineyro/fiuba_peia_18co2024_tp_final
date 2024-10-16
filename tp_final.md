@@ -19,6 +19,8 @@
 
 Resumen de Intervalos de Confianza para Ventas de Santa Ana (2023):
 
+![Intervalos de Confianza para 'Santa Ana'](images/ci.png)
+
 1. Tendencia General:
 
    - Las ventas muestran una clara estacionalidad a lo largo del año.
@@ -47,8 +49,6 @@ Resumen de Intervalos de Confianza para Ventas de Santa Ana (2023):
 
 Esta información proporciona una visión clara de los patrones de venta en Santa Ana a lo largo del año 2023, permitiendo una mejor planificación y toma de decisiones basadas en la estacionalidad y la variabilidad de las ventas.
 
-![Intervalos de Confianza para 'Santa Ana'](images/ci.png)
-
 ## 2. Comparación de Ventas entre Supermercados (ANOVA)
 
 **Pregunta:** Realicen pruebas ANOVA para determinar si las ventas esperadas de todas las tiendas son iguales o no, con significancia del 95%.
@@ -56,6 +56,8 @@ Esta información proporciona una visión clara de los patrones de venta en Sant
 ### Resultados y Análisis
 
 Resumen de la Prueba ANOVA para Comparación de Ventas entre Tiendas:
+
+![ANOVA](images/anova.png)
 
 1. Resultados Estadísticos:
 
@@ -83,8 +85,6 @@ Resumen de la Prueba ANOVA para Comparación de Ventas entre Tiendas:
 5. Conclusión:
    Los resultados indican claramente que no todas las tiendas están teniendo un desempeño igual en términos de ventas. Estas diferencias son estadísticamente significativas y merecen una atención y análisis más detallados para optimizar el rendimiento general de la cadena de supermercados.
 
-![ANOVA](images/anova.png)
-
 ## 3. Comparación entre Tiendas con Mayor y Menor Promedio de Ventas
 
 **Pregunta:** Identifiquen la tienda con mayor promedio de ventas y la tienda con menor promedio de ventas y realicen una prueba de hipótesis para determinar si la diferencia entre ellas es distinta de cero o no.
@@ -92,6 +92,8 @@ Resumen de la Prueba ANOVA para Comparación de Ventas entre Tiendas:
 ### Resultados y Análisis
 
 Resumen de la Comparación entre Tiendas con Mayor y Menor Promedio de Ventas:
+
+![Comparación entre Tiendas con Mayor y Menor Promedio de Ventas](images/ventas.png)
 
 1. Identificación de Tiendas:
 
@@ -120,8 +122,6 @@ Resumen de la Comparación entre Tiendas con Mayor y Menor Promedio de Ventas:
    - Esta diferencia podría traducirse en disparidades sustanciales de ingresos a lo largo del tiempo, destacando la importancia de comprender y abordar los factores que contribuyen a esta brecha de rendimiento.
    - Puede haber lecciones valiosas que aprender de las operaciones de la tienda Palermo que podrían aplicarse para mejorar las ventas en Los Cedros y potencialmente en otras tiendas de la cadena.
 
-![Comparación entre Tiendas con Mayor y Menor Promedio de Ventas](images/ventas.png)
-
 ## 4. Análisis Bayesiano del Porcentaje de Morosidad
 
 **Pregunta:** Determinen la distribución a posteriori del parámetro p de porcentaje de morosidad. Determinar su media y su varianza.
@@ -129,6 +129,8 @@ Resumen de la Comparación entre Tiendas con Mayor y Menor Promedio de Ventas:
 ### Resultados y Análisis
 
 Resumen del Análisis Bayesiano del Porcentaje de Morosidad:
+
+![Análisis Bayesiano del Porcentaje de Morosidad](images/morosidad.png)
 
 1. Distribución Posterior:
 
@@ -161,8 +163,6 @@ Resumen del Análisis Bayesiano del Porcentaje de Morosidad:
    - La distribución prior B(1, 5) influyó en mantener una estimación de morosidad mayor que cero, a pesar de no observar clientes morosos en la muestra actual.
 
 En resumen, el análisis bayesiano sugiere que Don Francisco puede esperar una tasa de morosidad relativamente baja en sus ventas a crédito, con una mejor estimación del 8,33%, aunque existe cierta incertidumbre en esta estimación debido al tamaño limitado de la muestra.
-
-![Análisis Bayesiano del Porcentaje de Morosidad](images/morosidad.png)
 
 ## Recomendaciones para Don Francisco
 
